@@ -1,9 +1,5 @@
 # recon and social engineering to gain access
-
-
-# social engineering
-
-# wifi access
+# social engineering and wifi access
 
 # methods
 
